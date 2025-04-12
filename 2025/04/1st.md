@@ -1,9 +1,11 @@
 # Day1
 
+Two Pointers
 ![day1](./assets/day1.jpg)
 
 &nbsp;
 
 # Day2
 
+Sort + Two Pointer
 ![day2](./assets/day2.jpg)
