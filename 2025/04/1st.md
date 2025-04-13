@@ -9,3 +9,10 @@ Two Pointers
 
 Sort + Two Pointer
 ![day2](./assets/day2.jpg)
+
+&nbsp;
+
+# Day3
+
+Modular Exponentiation - binary exponentiation
+![day3](./assets/day3.jpg)
