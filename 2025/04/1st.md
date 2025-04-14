@@ -16,3 +16,16 @@ Sort + Two Pointer
 
 Modular Exponentiation - binary exponentiation
 ![day3](./assets/day3.jpg)
+
+&nbsp;
+
+# Day4
+
+Sort + Two Pointer
+_a kSum solution - focus on a generalized implementation_
+![day4-01](./assets/day4-01.jpg)
+
+&nbsp;
+
+Prefix Sum
+![day4-02](./assets/day4-02.jpg)
