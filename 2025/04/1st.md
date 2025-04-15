@@ -29,3 +29,10 @@ _a kSum solution - focus on a generalized implementation_
 
 Prefix Sum
 ![day4-02](./assets/day4-02.jpg)
+
+&nbsp;
+
+# Day5
+
+Two Pointer
+![day5](./assets/day5.jpg)
