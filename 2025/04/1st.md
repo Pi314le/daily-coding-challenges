@@ -44,7 +44,15 @@ Two Pointer
 In-Place Hash + In-Place Swapping
 ![day6-01](./assets/day6-01.jpg)
 
+---
+
 &nbsp;
 
 Hash
-![day6-02](./assets/day6-02.jpg)
+![day6-02](./assets/day6-02-Hash.jpg)
+
+&nbsp;
+
+★Moore Voting Algorithm
+![day6-02](./assets/day6-02-Moore-Voting-Algorithm.jpg)
+![day6-02-method-explanation](./assets/day6-02-Moore-Voting-Algorithm-explanation.jpg)
