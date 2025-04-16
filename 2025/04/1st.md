@@ -36,3 +36,15 @@ Prefix Sum
 
 Two Pointer
 ![day5](./assets/day5.jpg)
+
+&nbsp;
+
+# Day6
+
+In-Place Hash + In-Place Swapping
+![day6-01](./assets/day6-01.jpg)
+
+&nbsp;
+
+Hash
+![day6-02](./assets/day6-02.jpg)
