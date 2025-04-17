@@ -46,8 +46,6 @@ In-Place Hash + In-Place Swapping
 
 ---
 
-&nbsp;
-
 Hash
 ![day6-02](./assets/day6-02-Hash.jpg)
 
@@ -56,3 +54,16 @@ Hash
 ★Moore Voting Algorithm
 ![day6-02](./assets/day6-02-Moore-Voting-Algorithm.jpg)
 ![day6-02-method-explanation](./assets/day6-02-Moore-Voting-Algorithm-explanation.jpg)
+
+&nbsp;
+
+# Day7
+
+Hash
+use alphabet index iteration and firstIndMap !== -1 to check character existence, no need for a Set.
+![day7](./assets/day7-method1.jpg)
+
+&nbsp;
+
+use a Set
+![day7](./assets/day7-method2.jpg)
