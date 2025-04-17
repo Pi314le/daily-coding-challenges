@@ -59,7 +59,8 @@ Hash
 
 # Day7
 
-Hash
+## Hash
+
 use alphabet index iteration and firstIndMap !== -1 to check character existence, no need for a Set.
 ![day7](./assets/day7-method1.jpg)
 
